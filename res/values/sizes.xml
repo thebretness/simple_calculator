@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="button_single">10mm</dimen>
+
+<dimen name="button_double">20mm</dimen>
+</resources>

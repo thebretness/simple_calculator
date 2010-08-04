@@ -4,3 +4,4 @@
 *.apk
 !.gitignore
 bin
+gen
